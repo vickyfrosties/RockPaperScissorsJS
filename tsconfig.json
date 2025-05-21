@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    // accept js files
+    "allowJs": true,
+    // check types in js files
+    "checkJs": true,
+    "strict": true,
+    "target": "ES6",
+    "outDir": "dist",
+    "lib": ["DOM"]
+  },
+  "include": ["./src/**/*"]
+}
